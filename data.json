@@ -1,0 +1,52 @@
+[
+  {
+    "fromName": "Alice Johnson",
+    "fromEmail": "alice.johnson@example.com",
+    "fromDomain": "example.com"
+  },
+  {
+    "fromName": "Bob Williams",
+    "fromEmail": "bob.williams@example.com",
+    "fromDomain": "example.com"
+  },
+  {
+    "fromName": "Carol Davis",
+    "fromEmail": "carol.davis@example.com",
+    "fromDomain": "example.com"
+  },
+  {
+    "fromName": "David Brown",
+    "fromEmail": "david.brown@example.com",
+    "fromDomain": "example.com"
+  },
+  {
+    "fromName": "Emma Wilson",
+    "fromEmail": "emma.wilson@example.com",
+    "fromDomain": "example.com"
+  },
+  {
+    "fromName": "Frank Taylor",
+    "fromEmail": "frank.taylor@example.com",
+    "fromDomain": "example.com"
+  },
+  {
+    "fromName": "Grace Anderson",
+    "fromEmail": "grace.anderson@example.com",
+    "fromDomain": "example.com"
+  },
+  {
+    "fromName": "Henry Thomas",
+    "fromEmail": "henry.thomas@example.com",
+    "fromDomain": "example.com"
+  },
+  {
+    "fromName": "Ivy Martinez",
+    "fromEmail": "ivy.martinez@example.com",
+    "fromDomain": "example.com"
+  },
+  {
+    "fromName": "Jack Robinson",
+    "fromEmail": "jack.robinson@example.com",
+    "fromDomain": "example.com"
+  }
+]

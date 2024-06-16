@@ -1,7 +1,7 @@
 # heavybee
 
 Purpose:
-
+Learn CRUD with dynamodb + golang.
 
 ## example usage
 
@@ -35,8 +35,20 @@ TBD
 
 ```bash
 
+cd heavybee
 terraform init
 terraform plan -out=tfplan
+terraform apply tfplan
+
+# bulk load data.json
+make && ./heavybee run --json data.json
+
+# query the table
+make && ./heavybee query
+
+# cleanup
+terraform plan -destroy -out=tfplan && terraform apply tfplan
+
 
 
 ```
