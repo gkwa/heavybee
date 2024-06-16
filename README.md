@@ -28,3 +28,15 @@ on windows:
 TBD
 
 ```
+
+
+## Getting started
+
+
+```bash
+
+terraform init
+terraform plan -out=tfplan
+
+
+```
