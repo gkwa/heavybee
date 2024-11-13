@@ -5,8 +5,8 @@ go 1.22.4
 require (
 	github.com/aws/aws-sdk-go-v2 v1.32.4
 	github.com/aws/aws-sdk-go-v2/config v1.28.3
-	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.15
-	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.36.5
+	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.15.16
+	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.37.0
 	github.com/go-git/go-git/v5 v5.12.0
 	github.com/magefile/mage v1.15.0
 	github.com/spf13/cobra v1.8.1
