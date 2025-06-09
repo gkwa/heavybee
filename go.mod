@@ -9,7 +9,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/config v1.29.15
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.19.1
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.43.2
-	github.com/go-git/go-git/v5 v5.16.1
+	github.com/go-git/go-git/v5 v5.16.2
 	github.com/magefile/mage v1.15.0
 	github.com/spf13/cobra v1.9.1
 	github.com/spf13/viper v1.20.1
