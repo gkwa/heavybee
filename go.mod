@@ -10,7 +10,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.20.36
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.57.0
 	github.com/go-git/go-git/v5 v5.17.0
-	github.com/magefile/mage v1.16.1
+	github.com/magefile/mage v1.17.0
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/viper v1.21.0
 	github.com/taylormonacelli/goldbug v0.0.6
