@@ -587,6 +587,8 @@ github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.20.40 h1:YgK4pCE
 github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.20.40/go.mod h1:lLByfL+ypa2gqe2+RuOtH+UNCrNP34l3loCHw3IH+Wk=
 github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.20.41 h1:NyJGcJ8k8LCvu5da9woZ3jZh/9OMW9BQLdDX+79iwFQ=
 github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.20.41/go.mod h1:eKYWqnORD/8/PSm+TauZGiHhCbqYC3atWwZ93tvbaGs=
+github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.20.42 h1:08yVkOsuqB141Ecey/DQNpfZavy5nRiOCJq5JNrNvE8=
+github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.20.42/go.mod h1:4RQejC5j5SmhtDRmW/kUC+wEV1egdfWgfPzEX9zRSrg=
 github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.5 h1:dDgptDO9dxeFkXy+tEgVkzSClHZje/6JkPW5aZyEvrQ=
 github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.5/go.mod h1:gjvE2KBUgUQhcv89jqxrIxH9GaKs1JbZzWejj/DaHGA=
 github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.17 h1:TMH3f/SCAWdNtXXVPPu5D6wrr4G5hI1rAxbcocKfC7Q=
@@ -1031,6 +1033,8 @@ github.com/aws/aws-sdk-go-v2/service/dynamodb v1.57.4 h1:0E3bfw1Va3vfCrmtATvKRnG
 github.com/aws/aws-sdk-go-v2/service/dynamodb v1.57.4/go.mod h1:dFPU89qDDGgQbXyzQ5ZY6zcjjKPVW+1M63axOw887JE=
 github.com/aws/aws-sdk-go-v2/service/dynamodb v1.57.5 h1:8dBj9DoTg1rNP/n5FC13c7zc97hx6Urc+jT+iSC7PVA=
 github.com/aws/aws-sdk-go-v2/service/dynamodb v1.57.5/go.mod h1:cFa8ItF/dcfex+Op4D0oWbZePIq1ljmrAOAGlEQyGHo=
+github.com/aws/aws-sdk-go-v2/service/dynamodb v1.57.6 h1:KWXE+N1K4UIQ00HaQ5E73AAvRpR7tGSov0suevuCiSo=
+github.com/aws/aws-sdk-go-v2/service/dynamodb v1.57.6/go.mod h1:9Za84vzXpcSB0dxP86xhhKDU15+XMpQLL1luLUK8EpI=
 github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.20.10 h1:aK9uyT3Ua6UOmTMBYEM3sJHlnSO994eNZGagFlfLiOs=
 github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.20.10/go.mod h1:S541uoWn3nWvo28EE8DnMbqZ5sZRAipVUPuL11V08Xw=
 github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.24.2 h1:E7Tuo0ipWpBl0f3uThz8cZsuyD5H8jLCnbtbKR4YL2s=
@@ -1157,6 +1161,8 @@ github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.32.16 h1:nWMRNW3SFeJCdK7
 github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.32.16/go.mod h1:IMigEAstzWVC+mYsWLjZB/ZBJBLWON/Fl0zLHxZ18Qk=
 github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.32.17 h1:dIgjncvezVA9gmOMIJtT8X/uWzp5xUmzIP8xfisq+U8=
 github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.32.17/go.mod h1:WqWAYpKRCheOkQ9VQsYEN6suToymE2ROKBVCoBP7Dow=
+github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.32.18 h1:avkG5JVKajz5/tseDM3x8Nu+qyEob3ytG7K3H6pmzZM=
+github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.32.18/go.mod h1:ncRx8cWLa5Zk+TKz1M+W25bi4BwJ3Nq77598y3FjakY=
 github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.11.2 h1:Ji0DY1xUsUr3I8cHps0G+XM3WWU16lP6yG8qu1GAZAs=
 github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.11.2/go.mod h1:5CsjAbs3NlGQyZNFACh+zztPDI7fU6eW9QsxjfnuBKg=
 github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.0 h1:TToQNkvGguu209puTojY/ozlqy2d/SFNcoLIqTFi42g=
@@ -1279,6 +1285,8 @@ github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.12.0 h1:iNQl
 github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.12.0/go.mod h1:3oh+5xGSd1iuxonVb3Qbm+WJYlbhczT9kbzr6doJLzY=
 github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.12.1 h1:7InFIafuKLWUQ3hieU3b23JmEKlFAWIzq9GHmYn4rWA=
 github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.12.1/go.mod h1:lfCeSIEwe7jvMcEBKcQ/vVoYK0RNJh1X8pja5GqDQtM=
+github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.12.2 h1:hSoDQhlj4FltaOFT6QSRylsI06ZaHh1IXgdM/ssoAb0=
+github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.12.2/go.mod h1:/hAD28e8h+h5M8uIKiAwDm+6MbLlTHWfbyUwaaGNhmg=
 github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.11.11 h1:o4T+fKxA3gTMcluBNZZXE9DNaMkJuUL1O3mffCUjoJo=
 github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.11.11/go.mod h1:84oZdJ+VjuJKs9v1UTC9NaodRZRseOXCTgku+vQJWR8=
 github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.2 h1:s7NA1SOw8q/5c0wr8477yOPp0z+uBaXBnLE0XYb0POA=
