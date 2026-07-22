@@ -7,7 +7,7 @@ toolchain go1.26.5
 require (
 	github.com/aws/aws-sdk-go-v2 v1.43.0
 	github.com/aws/aws-sdk-go-v2/config v1.32.31
-	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.20.52
+	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.20.53
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.61.0
 	github.com/go-git/go-git/v5 v5.19.1
 	github.com/magefile/mage v1.17.2
@@ -26,7 +26,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.7.31 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/ini v1.8.6 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.4.32 // indirect
-	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.35.1 // indirect
+	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.36.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.13 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.12.8 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.13.31 // indirect
