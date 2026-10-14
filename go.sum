@@ -821,6 +821,8 @@ github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.21.10 h1:TlmcgoA
 github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.21.10/go.mod h1:NgJU5fYKll2qmG4s9h2rkFhgmHHFePcgbOHd7IM04VI=
 github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.21.11 h1:scHCKmc/Y0PTBOqskUMIklG3rJaIrmDNmEKzTyd+knM=
 github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.21.11/go.mod h1:myhPg9Xs4FG7aAF3UB+HxoCJgLumr3d9O5ZcnjOoLpI=
+github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.21.12 h1:eeWQJ9pebjIaQJSN+buoXlpHmVcQrqUmubaAhVdWCmY=
+github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.21.12/go.mod h1:SEAdm9s3OSgdEEbhVAPD71AMrFA9Fx5IPtM7yGDTmlw=
 github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.5 h1:dDgptDO9dxeFkXy+tEgVkzSClHZje/6JkPW5aZyEvrQ=
 github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.5/go.mod h1:gjvE2KBUgUQhcv89jqxrIxH9GaKs1JbZzWejj/DaHGA=
 github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.17 h1:TMH3f/SCAWdNtXXVPPu5D6wrr4G5hI1rAxbcocKfC7Q=
@@ -1693,6 +1695,8 @@ github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.45.0 h1:u5nSwQ/IkC+ECC0/
 github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.45.0/go.mod h1:nQKpvecp6i0FXV5IMV5NmwVsmQSPsKxAQhrMbpOBYe8=
 github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.45.1 h1:oGBxL5ChuLK6h0YaLMi2tnfmN7S2yeQWR2ldvNLG1Ng=
 github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.45.1/go.mod h1:XQbW74MFcqXaTjmgGJxkAYFJgBvljG3urkkCGKvJ66Y=
+github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.46.0 h1:MZsBpAgxdZCv/f2zRPU0XXSoqQIdH11F8uGIfqADtEg=
+github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.46.0/go.mod h1:XQbW74MFcqXaTjmgGJxkAYFJgBvljG3urkkCGKvJ66Y=
 github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.11.2 h1:Ji0DY1xUsUr3I8cHps0G+XM3WWU16lP6yG8qu1GAZAs=
 github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.11.2/go.mod h1:5CsjAbs3NlGQyZNFACh+zztPDI7fU6eW9QsxjfnuBKg=
 github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.0 h1:TToQNkvGguu209puTojY/ozlqy2d/SFNcoLIqTFi42g=
